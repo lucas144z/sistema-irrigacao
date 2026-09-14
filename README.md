@@ -4,6 +4,10 @@ Sistema de irrigação automática baseado em Arduino Uno. O sistema monitora a 
 
 ## Demonstração
 
+
+https://github.com/user-attachments/assets/6ad40e59-7765-4d2d-8a61-745f9b3ca520
+
+
 ## Funcionalidades
 
 - Leitura da umidade do solo com média de 10 amostras para reduzir ruído
